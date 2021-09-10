@@ -40,6 +40,4 @@ public class SellerDTO implements Serializable {
 		this.name = name;
 	}
 	
-	
-	
 }
