@@ -6,6 +6,9 @@ https://dsvendas-jordansilva.netlify.app/
 
 # Technologies used
 ## Backend
+- PostgresSQL
+
+## Backend
 - Java
 - Spring Boot
 - JPA
