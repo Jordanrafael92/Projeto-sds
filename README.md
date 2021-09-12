@@ -24,7 +24,7 @@ https://dsvendas-jordansilva.netlify.app/
 - Netlify
 - Heroku
 
-### Author
+## Developer
 Jordan Silva
 
 https://www.linkedin.com/in/jordan-silva/
