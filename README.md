@@ -19,6 +19,7 @@ https://dsvendas-jordansilva.netlify.app/
 ## Continuous Integration
 - GitHub
 - Netlify
+- Heroku
 
 ### Author
 Jordan Silva
