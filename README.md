@@ -6,6 +6,9 @@ https://dsvendas-jordansilva.netlify.app/
 
 # Technologies used
 ## Backend
+- PostgresSQL
+
+## Backend
 - Java
 - Spring Boot
 - JPA
@@ -19,8 +22,9 @@ https://dsvendas-jordansilva.netlify.app/
 ## Continuous Integration
 - GitHub
 - Netlify
+- Heroku
 
-### Author
+## Developer
 Jordan Silva
 
 https://www.linkedin.com/in/jordan-silva/
