@@ -5,11 +5,9 @@ https://dsvendas-jordansilva.netlify.app/
 
 ## Layout web
 
-<p>
-  <img src="Projeto-sds/tree/master/assets/Dashboard.PNG">
+<p align="center">
+  <img width="800" src="assets/Dashboard.PNG">
 </p>
-
-![Dashboard](https://github.com/Jordanrafael92/Projeto-sds/tree/master/assets/Dashboard.PNG)
 
 # Technologies used
 ## Backend
