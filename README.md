@@ -10,7 +10,7 @@ https://dsvendas-jordansilva.netlify.app/
 </p>
 
 # Technologies used
-## Backend
+## Database
 - PostgresSQL
 
 ## Backend
