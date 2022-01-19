@@ -1,4 +1,4 @@
-# Preject Spring React
+# Project Spring React
 
 # Application Link
 https://dsvendas-jordansilva.netlify.app/
